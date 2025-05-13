@@ -10,6 +10,6 @@ function abrirCarta() {
     erro.textContent = "";
     senhaContainer.style.display = "none";
   } else {
-    erro.innerHTML = 'Senha incorreta. Tente novamente.<br><strong>Dica:</strong> O prato que você fez que Vinícius ama';
+    erro.innerHTML = 'Senha incorreta. Tente novamente.<br><strong>Dica:</strong> O prato que você faz que Vinícius ama';
   }
 }
